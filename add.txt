@@ -1,0 +1,16 @@
+<! -- <div class="message is-white"  data-aos="fade-up"    >
+    <div class="message-header-center">
+    <button class="button is-primary"> Contact Me</button>
+</div>
+<div class="message-body"   data-aos="flip-up">
+<footer class="footer">
+        <div class="content has-text-centered">
+          <p>
+            <strong>My Following Social link: </br> <progress></progress> </br> <a href="https://github.com/Adil-IT">Github</a>
+            </br>
+                
+          
+            <a href="https://www.facebook.com/IT09.adil/">Facebook</a> 
+          </p></strong>
+        </div>
+      </footer>-->
